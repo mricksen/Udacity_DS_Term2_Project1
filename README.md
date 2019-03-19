@@ -1,4 +1,4 @@
-# Udacity_DS_Term2_Project1
+# Udacity Data Science Term 2 Project 1
 
 This project is for the Udacity Data Science term 2. 
 
